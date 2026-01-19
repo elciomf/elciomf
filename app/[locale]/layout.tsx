@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "pt_BR",
-    url: "https://elcio.dev",
+    url: "https://elciomf.com",
     title: "Élcio M. Fernandes | Software Engineer",
     description:
       "Crafting scalable, high-performance digital solutions.",

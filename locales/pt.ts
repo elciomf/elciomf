@@ -6,7 +6,9 @@ export default {
       part1: "Criando experiências digitais ",
       part2: " robustas.",
     },
-    downloadCV: "Baixar CV",
+    downloadCV: "Baixar Currículo",
+    downloadingMessage:
+      "Preparando currículo para download...",
     role: "Engenheiro de Software",
     focus: "Foco em Full-stack",
   },

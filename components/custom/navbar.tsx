@@ -96,7 +96,6 @@ export function Navbar() {
           />
         </p>
 
-        {/* Desktop Menu */}
         <ul className="hidden lg:flex items-center gap-x-8">
           {landings.map((landing, index) => (
             <li key={index}>
